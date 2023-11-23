@@ -1,61 +1,61 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html>
 <head>
+    
     <meta charset="UTF-8">
-    <title>First Fashion - Laravel E-commerce Website</title>
-    <style>
-        /* CSS Styles Here */
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-        }
+  <title>First Fashion - Laravel E-commerce Website</title>
+  <style>
+    /* CSS Styles Here */
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 20px;
+    }
 
-        h1 {
-            text-align: center;
-            margin-bottom: 20px;
-        }
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
 
-        h2 {
-            margin-bottom: 10px;
-        }
+    h2 {
+      margin-bottom: 10px;
+    }
 
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
 
-        li {
-            margin-bottom: 5px;
-        }
+    li {
+      margin-bottom: 5px;
+    }
 
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 5px;
-            border-radius: 3px;
-        }
+    code {
+      background-color: #f4f4f4;
+      padding: 2px 5px;
+      border-radius: 3px;
+    }
 
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
+    pre {
+      background-color: #f4f4f4;
+      padding: 10px;
+      border-radius: 5px;
+      overflow-x: auto;
+    }
 
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-        }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
 
-        .code-block {
-            background-color: #f9f9f9;
-            padding: 10px;
-            border-radius: 5px;
-            margin-bottom: 20px;
-        }
-    </style>
+    .code-block {
+      background-color: #f9f9f9;
+      padding: 10px;
+      border-radius: 5px;
+      margin-bottom: 20px;
+    }
+  </style>
 </head>
 
 <body>
