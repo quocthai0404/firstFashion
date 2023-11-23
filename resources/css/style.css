@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card_title{
+    display: flex;
+
+}
+.card_home{
+    position: relative;
+}
+.card_service{
+    margin-top: 28px;
+    margin-left: 290px;
+}
+h3{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+ul li{
+    list-style: none;
+    display: inline;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin-left: 30px;
+}
+a:hover{
+    text-decoration: underline;
+    color: black;
+}
+.card_shopping{
+    margin-left: 400px;
+    display: inline-flex;
+    margin-top: 25px;
+}
+i{
+    font-size: 27px;
+    margin-right: 4px;
+
+}
+p{
+    margin-top: 4px;
+}
+p:hover{
+    text-decoration: underline;
+    color: black;
+}
+.card_topic{
+    height: 500px;
+    display: flex;
+    background-image: url("https://images.pexels.com/photos/3965543/pexels-photo-3965543.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card_topic-buy{
+    margin-top: 45px;
+    margin-left: 520px;
+    position: absolute;
+}
+h2{
+    /*margin-top: 150px;*/
+
+}
+input[type=submit]{
+    margin-left: 70px;
+    padding: 7px;
+    border: none;
+    background-color: #322d31 ;
+    width: 120px;
+    border-radius: 2px;
+    height: 40px;
+    color: white;
+}
+input[type=submit]:hover{
+    color: white;
+    background-color: #7f737d;
+}
+.items{
+    height: 390px;
+    width: 295px;
+    margin-top: 40px;
+    margin-left: 38px;
+    /*border: 1px solid black;*/
+    background-color: #e8cba5;
+    border: 2px solid #e8cba5;
+    border-radius: 4px;
+}
+img{
+    width: 290px;
+    height: 290px;
+}
+h2{
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 120px;
+    text-decoration: underline;
+}
+.card_watch{
+    display: flex;
+    overflow-x: scroll;
+    margin-bottom: 10px;
+}
+.card_product{
+    display: flex;
+    overflow-x: scroll;
+    margin-bottom: 10px;
+}
+.card_bracelet{
+    display: flex;
+    overflow-x: scroll;
+    margin-bottom: 10px;
+}
+.card_ring{
+    display: flex;
+    overflow-x: scroll;
+    margin-bottom: 10px;
+}
+.price{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+i{
+    float: right;
+    margin-bottom: 40px;
+    margin-right: 20px;
+}
+i:hover{
+    color: red;
+
+}
+.card_introduce{
+    display: flex;
+    margin-left: 50px;
+    position: relative;
+}
+.card_introduce--product{
+    margin-left: 20px;
+
+}
+.card_product--name{
+    height: 75px;
+
+}
+.card_about{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+.card_about h1{
+    margin-bottom: 40px;
+}
+.card_product-women{
+    margin-left: 70px;
+}
+.card_women {
+    display: flex;
+}
+.card_productwomen-buy{
+    margin-left: 120px;
+    margin-top: 120px;
+}
+.card_productwomen-buy p{
+    margin-left: 50px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+.card_man{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.card_product-man{
+    margin-left: 70px;
+}
+s
+.card_contact{
+    width: 100%;
+    height: 550px;
+    background-color: #322d31 ;
+    margin-top: 40px;
+    color: white;
+    padding: 12px;
+}
+.card_contact h1{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.card_contact input[type=text],input[type=password],input[type=email]{
+     border: none;
+    width: 450px;
+    margin-left: 40px;
+    border-radius: 8px;
+    margin-top: 30px;
+    padding: 8px;
+}
+.card_contact textarea{
+    width: 450px;
+    margin-top: 40px;
+    border-radius: 8px;
+    margin-left: 40px;
+}
+.card_contact input[type=submit]{
+    background-color: #a0aec0;
+    margin-top: 40px;
+    border-radius: 8px;
+}
+.card_contact input[type=tex]:hover{
+    background-color: #1a202c;
+}
+.card_follow{
+    margin-left: 200px;
+    margin-top: 120px;
+}
+.card_follow a{
+    color: white;
+    font-size: 20px ;
+}
+.card_follow a:hover{
+    text-decoration: none;
+    color: #a0aec0;
+}
+.card_follow i{
+    margin-right: 50px;
+    margin-top: 20px;
+}
